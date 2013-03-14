@@ -1,29 +1,29 @@
 #!/bin/bash
 while true; do
     
-    PAGELINK0="http://samstechlife.blogspot.ca/"
+    PAGELINK0=""
 
-    PAGELINK1="http://samstechlife.blogspot.ca/2013/02/hey-readers-thanks-for-visiting-my-blog.html"
+    PAGELINK1=""
 
-    PAGELINK2="http://samstechlife.blogspot.ca/2013/02/a-blast-from-past.html"
+    PAGELINK2=""
 
-    PAGELINK3="http://samstechlife.blogspot.ca/2013/02/back2school.html"
+    PAGELINK3=""
 
-    PAGELINK4="http://samstechlife.blogspot.ca/2013/02/finally-found-my-segway-out-of-boredom.html"
+    PAGELINK4=""
 
-    PAGELINK5="http://samstechlife.blogspot.ca/2013/03/its-never-wrong-time-to-blog-co-op-fun.html"
+    PAGELINK5=""
 
-    PAGELINK6="http://samstechlife.blogspot.ca/2013/03/sleep-deprived-8.html"
+    PAGELINK6=""
 
-    PAGELINK7="http://samstechlife.blogspot.ca/2013/03/random-s-from-waterloo.html"
+    PAGELINK7=""
 
-    PAGELINK8="http://samstechlife.blogspot.ca/2013/03/the-day-waterloo-bridge-fell-down.html"
+    PAGELINK8=""
 
-    PAGELINK9="http://samstechlife.blogspot.ca/2013/03/post-10-best-shower-ever.html"
+    PAGELINK9=""
 
-    PAGELINK10="http://samstechlife.blogspot.ca/2013/03/the-jump-from-high-school-to-university.html"
+    PAGELINK10=""
 
-    PAGELINK11="http://www.blogger.com/profile/04686134081150043164"
+    PAGELINK11=""
 
     COUNTER=0;
 
@@ -56,11 +56,4 @@ while true; do
 
     sleep 5; # long sleep after everything is done...
 
-    #firefox samstechlife.blogspot.ca &
-    #pkill firefox;
-    
-    #lynx -useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1" samstechlife.blogpsot.ca & 
-    #pkill firefox;
-    #pkill lynx;
-    
 done
